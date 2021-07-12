@@ -2,6 +2,8 @@
 my name is **anderson**, I'm from Itaguaí, Rio de Janeiro, Brazil. 
 Graduating in Technology in Systems Analysis and Development at Anhanguera Educacional I'm in the last period. I'm looking for new projects to improve my knowledge.
 
+[![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Jorge-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonjorgedesenvolvedorjavascriptjunior/)](https://www.linkedin.com/in/andersonjorgedesenvolvedorjavascriptjunior/) 
+[![Gmail Badge](https://img.shields.io/badge/-anderson.jorge33@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=anderson.jorge33@gmail.com)](anderson.jorge33@gmail.com)
 <!--
 **andersonjorgeg/andersonjorgeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
