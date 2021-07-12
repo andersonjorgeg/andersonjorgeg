@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello 👋
+my name is **anderson**, I'm from Itaguaí, Rio de Janeiro, Brazil. 
+Graduating in Technology in Systems Analysis and Development at Anhanguera Educacional I'm in the last period. I'm looking for new projects to improve my knowledge.
 
 <!--
 **andersonjorgeg/andersonjorgeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
